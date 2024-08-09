@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding and Cybersecurity stuff
 - 🌱 I’m currently learning Full Stack web devlopment
 - 📫 How to reach me cs5764532@gmail.com
-- 😄 Pronouns: Hackerr
+- 😄 Pronouns: -_-
 - ⚡ Fun fact: nothingg😭😭
 
 <!---
