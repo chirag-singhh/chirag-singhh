@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @chirag-singhh
-- 👀 I’m interested in Coding and Cybersecurity stuff
+- 👀 I’m interested in eatingg Chips
 - 🌱 I’m currently learning Full Stack web devlopment
-- 📫 How to reach me cs5764532@gmail.com
+- 📫 How to reach me just think about me ill be there
+- 
 - 😄 Pronouns: -_-
 - ⚡ Fun fact: nothingg😭😭
 
