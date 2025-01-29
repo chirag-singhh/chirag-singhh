@@ -24,4 +24,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=chirag-singhh&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![snake gif](https://github.com/chirag-singhh/chirag-singhh/blob/output/github-snake-dark.svg)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
